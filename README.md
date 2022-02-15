@@ -4,6 +4,7 @@
 </p>
 <p align="center">
   <a style="font-weight:bold;">And welcome to my GitHub</a>
+</p>
+<p align="center">
   <a style="font-weight:bold;">This is stuff I'm working, some stuff is just experimental</a>
 </p>
-
