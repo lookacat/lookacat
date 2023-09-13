@@ -6,6 +6,6 @@
   <a style="font-weight:bold;">And welcome to my GitHub</a>
 </p>
 <p align="center">
-  <h2 style="font-weight:bold;">Frontend Developer</h2>
+  <a style="font-weight:bold;font-size:16px">Frontend Developer</a>
   <a style="font-weight:bold;">This are things I'm working on, some stuff is just experimental</a>
 </p>
