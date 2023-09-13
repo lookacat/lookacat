@@ -7,5 +7,5 @@
 </p>
 <p align="center">
   <a style="font-weight:bold;font-size:16px">Frontend Developer</a>
-  <a style="font-weight:bold;">This are things I'm working on, some stuff is just experimental</a>
+
 </p>
