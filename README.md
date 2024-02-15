@@ -3,13 +3,12 @@
   <img width="520" src="hey.png" />
 </p>
 <p align="center">
-  <a style="font-weight:bold;">And welcome to my GitHub</a>
+  <strong>Frontend Developer</strong>
 </p>
 <p align="center">
-  <a style="font-weight:bold;font-size:16px">Frontend Developer</a>
-</p>
-<p align="center">
-  <a style="font-weight:bold;">Current FPS Game Project (repo is private)</a>
+  <br/>
+  <br/>
+  <code>Current FPS Game Project (repo is private)</code>
 </p>
 <p align="center">
   <img width="520" src="https://github.com/lookacat/lookacat/assets/786551/4c5a70fd-48f8-43d9-b4a5-f1c2ee2d9e79" />
