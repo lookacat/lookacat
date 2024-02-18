@@ -8,7 +8,7 @@
 <p align="center">
   <br/>
   <br/>
-  <code>Current FPS Game Project (repo is private)</code>
+  <code>Current FPS Game Project (repo is private since it contains paid assets)</code>
 </p>
 <p align="center">
   <img width="520" src="https://github.com/lookacat/lookacat/assets/786551/05ebca11-cac9-4766-9d03-8351ce5b105d" />
