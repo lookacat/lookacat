@@ -12,9 +12,6 @@
 </p>
 <p align="center">
   <img width="520" src="https://github.com/lookacat/lookacat/assets/786551/05ebca11-cac9-4766-9d03-8351ce5b105d" />
-   <img width="520" src="https://github.com/lookacat/lookacat/assets/786551/149855c2-8f14-4b05-b13a-f6d0a1325ff0" />
-  <img width="520" src="https://github.com/lookacat/lookacat/assets/786551/4c5a70fd-48f8-43d9-b4a5-f1c2ee2d9e79" />
-  <img width="520" src="https://github.com/lookacat/lookacat/assets/786551/5da90bbf-455a-417c-acad-e2cebcd4a78d" />
   <img width="520" src="![ss8](https://github.com/lookacat/lookacat/assets/786551/f2a083a1-5fa2-453e-b8bc-46292bf88bd6" />
 </p>
 <p align="center">
