@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="520" src="hey.png" />
+  <img width="420" src="hey.png" />
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
   <i>Firefly - A music app built with Flutter</i>
   <br/><br/>
   <a href="https://github.com/lookacat/firefly-music-app" target="_blank">
-    <img width="400" src="https://github.com/lookacat/firefly-music-app/blob/main/1.png" alt="Firefly App Screenshot" />
+    <img width="300" src="https://github.com/lookacat/firefly-music-app/blob/main/1.png" alt="Firefly App Screenshot" />
   </a>
   <br/>
   <i>See the project <a href="https://github.com/lookacat/firefly-music-app" target="_blank">here 🔗</a></i>
@@ -34,7 +34,7 @@
   <i>Cloud Gallery - A Flutter-based cloud image gallery</i>
   <br/><br/>
   <a href="https://github.com/lookacat/cloud-gallery" target="_blank">
-    <img width="400" src="https://github.com/lookacat/cloud-gallery/blob/main/assets/screenshots/screen1.png" alt="Cloud Gallery Screenshot" />
+    <img width="300" src="https://github.com/lookacat/cloud-gallery/blob/main/assets/screenshots/screen1.png" alt="Cloud Gallery Screenshot" />
   </a>
   <br/>
   <i>See the project <a href="https://github.com/lookacat/cloud-gallery" target="_blank">here 🔗</a></i>
