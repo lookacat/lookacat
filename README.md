@@ -3,7 +3,7 @@
   <img width="520" src="hey.png" />
 </p>
 <p align="center">
-  <strong>Frontend Developer</strong>
+  <strong>Frontend Engineer</strong>
 </p>
 <p align="center">
   <br/>
