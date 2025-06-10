@@ -20,7 +20,7 @@
   <i>Firefly - A music app built with Flutter</i>
   <br/><br/>
   <a href="https://github.com/lookacat/firefly-music-app" target="_blank">
-    <img width="300" src="https://github.com/lookacat/firefly-music-app/blob/main/1.png" alt="Firefly App Screenshot" />
+    <img width="300" src="1-portrait.png" alt="Firefly App Screenshot" />
   </a>
   <br/>
   <i>See the project <a href="https://github.com/lookacat/firefly-music-app" target="_blank">here 🔗</a></i>
