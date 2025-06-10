@@ -12,7 +12,6 @@
 </p>
 
 <p align="center">
-  Previous Projects (Public Repos - See more in my repositories or pinned repos)
   <br/><br/>
 
   <!-- Firefly Project -->
@@ -21,7 +20,7 @@
   </a>
   <br/>
   <i>Firefly - A music app built with Flutter</i>
-  <br/>
+  <br/><br/>
   <a href="https://github.com/lookacat/firefly-music-app" target="_blank">
     <img width="400" src="https://github.com/lookacat/firefly-music-app/blob/main/1.png" alt="Firefly App Screenshot" />
   </a>
@@ -35,7 +34,7 @@
   </a>
   <br/>
   <i>Cloud Gallery - A Flutter-based cloud image gallery</i>
-  <br/>
+  <br/><br/>
   <a href="https://github.com/lookacat/cloud-gallery" target="_blank">
     <img width="400" src="https://github.com/lookacat/cloud-gallery/blob/main/assets/screenshots/screen1.png" alt="Cloud Gallery Screenshot" />
   </a>
