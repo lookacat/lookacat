@@ -29,8 +29,6 @@
       <br/>
       <i>See the project <a href="https://github.com/lookacat/firefly-music-app" target="_blank">here 🔗</a></i>
     </div>
-
-    <!-- Cloud Gallery Project -->
     <div style="text-align: center;">
       <a href="https://github.com/lookacat/cloud-gallery" target="_blank">
         <img width="100" src="https://github.com/lookacat/cloud-gallery/blob/main/assets/icon/rainfall_transparent.png" alt="Cloud Gallery Logo"/>
